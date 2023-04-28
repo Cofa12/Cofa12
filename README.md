@@ -12,10 +12,10 @@ I am a versatilist and easily adapt to different hats (PHP developer 🦣, CS st
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 📜 &nbsp; I’m currently Student at **menofia-FCI** grade 2
+- 🤝 &nbsp; I’m currently learning PHP
+- 💼 &nbsp; I’m working for @piscibus; 
+- 👨🏻‍💻 &nbsp; I have got GPA 3.6 from 4 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
