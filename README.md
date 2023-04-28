@@ -13,7 +13,7 @@ I am a versatilist and easily adapt to different hats (PHP developer 🦣, CS st
 ### 🧐 More About Me:
 
 - 📜 &nbsp; I’m currently Student at **menofia-FCI** grade 2
-- 🤝 &nbsp; I’m currently learning PHP
+- 🤝 &nbsp; I’m currently learning **PHP**
 - 💼 &nbsp; I’m working for @Piscibus;  
 - 🛠️ &nbsp; **C++** skills 
 - 🖇️ &nbsp; **DATA STRUCUTRE** skills
