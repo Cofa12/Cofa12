@@ -28,13 +28,13 @@ I am a versatilist and easily adapt to different hats (PHP developer 🦣, CS st
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Languages and Tools I'v used:
 <a href="https://www.php.net/manual/en/index.php" target="_blank"> <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" height="42px"/> </a> 
 <a href="https://cplusplus.com/doc/" target="_blank"> <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-
+<a href="https://github.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" align="left" alt="git" height='42px'/> </a>
 <br>
 
 
