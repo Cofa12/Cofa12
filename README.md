@@ -12,6 +12,7 @@ I am a versatilist and easily adapt to different hats (PHP developer 🦣, CS st
   
 ### 🧐 More About Me:
 
+- 🦣 &nbsp; I'm working for [RunSoft](https://github.com/runsoft-git)
 - 📜 &nbsp; I’m currently Student at **menofia-FCI** grade 4 **GPA** 3.6 from 4
 - 💼 &nbsp; I’m contributing for [@Piscibus](https://github.com/piscibus);  
 - 🛠️ &nbsp; **C++** skills 
