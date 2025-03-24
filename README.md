@@ -41,9 +41,9 @@ I am a versatilist and easily adapt to different hats (PHP developer 🦣, CS st
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cofa12&show_icons=true&locale=en&layout=compact" alt="ahmedhusseinhafez" /></p>
+<p style ="text-align:center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cofa12&show_icons=true&locale=en&layout=compact" alt="ahmedhusseinhafez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cofa12&" alt="ahmedhusseinhafez" /></p>
+<p style ="text-align:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cofa12&" alt="ahmedhusseinhafez" /></p>
 
 
 
