@@ -41,7 +41,7 @@ I am a versatilist and easily adapt to different hats (PHP developer 🦣, CS st
 <br>
 
 
-<p style ="text-align:center">
+<p style ="text-align:center;width:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cofa12&show_icons=true&locale=en&layout=compact" alt="ahmedhusseinhafez" />
   <br>
   <br>
