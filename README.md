@@ -27,13 +27,8 @@ I am a versatilist and easily adapt to different hats (PHP developer 🦣, CS st
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mahmoud-gamal-98a7b41b1/)
 
-
-<br>
-
 ### 🔨 Languages and Tools I'v used:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cofa12&show_icons=true&locale=en&layout=compact" alt="Cofa" />
-
-<br>
 
 ### ⚙️ Tracing
 <p style = "width:100%;height:350px">
