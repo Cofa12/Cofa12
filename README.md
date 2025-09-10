@@ -11,6 +11,13 @@ If you find my work useful and want to support ongoi
 - Kids-oriented media platform with video management and child photo submissions. (2 days ago)
 
 
+📫 How to reach me
+Email: [](mgcofa@gmail.com)
+LinkedIn: [](www.linkedin.com/in/mgcofa)
+
+
+
+
 
 
 
