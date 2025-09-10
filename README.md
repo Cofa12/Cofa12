@@ -12,8 +12,10 @@ If you find my work useful and want to support ongoi
 
 
 📫 How to reach me
-Email: [](mgcofa@gmail.com)
-LinkedIn: [](www.linkedin.com/in/mgcofa)
+<br>
+Email: [mgcofa@gmail.com)](mgcofa@gmail.com)
+<br>
+LinkedIn: [www.linkedin.com/in/mgcofa](www.linkedin.com/in/mgcofa)
 
 
 
